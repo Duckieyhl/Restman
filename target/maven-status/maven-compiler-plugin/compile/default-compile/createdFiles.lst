@@ -1,0 +1,13 @@
+com\mycompany\rest_man\JakartaRestConfiguration.class
+dao\DAO.class
+dao\TestDao.class
+dao\UserDao.class
+model\Dish.class
+model\ComboDetail.class
+model\Combo.class
+dao\DishDao.class
+dao\ComboDao.class
+model\Category.class
+com\mycompany\rest_man\resources\JakartaEE11Resource.class
+dao\CategoryDao.class
+model\User.class
